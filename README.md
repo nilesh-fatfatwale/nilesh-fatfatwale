@@ -29,6 +29,27 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">🎖 &nbsp;My Badges</h2></summary>
+  </ul>
+</div>
+<div align="center">
+  <!-- Wrap the images inside the anchor tags -->
+  <a href="https://holopin.io/@nileshfatfatwale">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <a href="https://holopin.io/@nileshfatfatwale">
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block; margin-right: 10px;" />
+  </a>
+  <a href="https://holopin.io/@nileshfatfatwale">
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block;" />
+  </a>
+</div>
+
+
+
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -43,7 +64,6 @@ Here are some ideas to get you started:
 <a href="https://discord.com/users/1067356761826267137" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
 
 <div align="center">
   

@@ -1,19 +1,15 @@
-## Hi there 👋
+## 💫About Me:
 
-<!--
-**nilesh-fatfatwale/nilesh-fatfatwale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💻 Self-Taught Full Stack Developer & Web3 Enthusiast
+- 📚 Education: Bachelor's in Computer Science from DBATU University
+- 📝 Passion: Enthusiastic about Data Structures & Algorithms, Full Stack Web Development, Blockchain/Web3, and contributing to Open Source projects
+- 🌟 Primary Language: JavaScript — "the soul of my development journey"
+- 🚩 Interests: Full Stack Web Development, React Native Application Development, Blockchain Integration and Solving Rubik Cube 
+- ⚡ fact:"If you ask me a question and I don’t know the answer, I’m going to tell you that I don’t know. But I bet you what, I know how to find the answer, and I will find the answer."
+- 🤔 Opportunities: Seeking internships or job roles in Full Stack Development and Blockchain technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
 <!--h1 without bottom border-->

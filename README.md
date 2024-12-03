@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 <div align="center">
   <!-- Wrap the images inside the anchor tags -->
   <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block; margin-right: 10px;" />
   </a>
   <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block; margin-right: 10px;" />
+    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block; margin-right: 10px;" />
   </a>
   <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="150" style="display: inline-block;" />
+    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block;" />
   </a>
 </div>
 

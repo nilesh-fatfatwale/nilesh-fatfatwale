@@ -6,7 +6,7 @@
 - 📝 Passion: Enthusiastic about Data Structures & Algorithms, Full Stack Web Development, Blockchain/Web3, and contributing to Open Source projects
 - 🌟 Primary Language: JavaScript — "the soul of my development journey"
 - 🚩 Interests: Full Stack Web Development, React Native Application Development, Blockchain Integration and Solving Rubik Cube 
-- ⚡ fact:"If you ask me a question and I don’t know the answer, I’m going to tell you that I don’t know. But I bet you what, I know how to find the answer, and I will find the answer."
+- ⚡ Fact:"If you ask me a question and I don’t know the answer, I’m going to tell you that I don’t know. But I bet you what, I know how to find the answer, and I will find the answer."
 - 🤔 Opportunities: Seeking internships or job roles in Full Stack Development and Blockchain technology
 
 
@@ -21,7 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,java,nodejs,npm,git,vercel,react,css,bootstrap,styledcomponents,postgres,prisma,sequelize,express,figma,github,html,linux,aws,materialui,mongodb,mysql,nextjs,nodejs,postman,py,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=javascript,ts,java,nodejs,npm,git,vercel,react,css,bootstrap,styledcomponents,postgres,prisma,sequelize,express,figma,github,html,linux,aws,materialui,mongodb,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
   </a>
 </p>
 

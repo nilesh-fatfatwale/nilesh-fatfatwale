@@ -21,29 +21,9 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,ts,java,nodejs,npm,git,vercel,react,css,bootstrap,styledcomponents,postgres,prisma,sequelize,express,figma,github,html,linux,aws,materialui,mongodb,mysql,nextjs,postman,py,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,git,kubernetes,docker,vim,ansible,bash,elasticsearch,github,githubactions,grafana,jenkins,mongodb,mysql,nginx,prometheus,terraform,vscode&perline=10" />
   </a>
 </p>
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🎖 &nbsp;My Badges</h2></summary>
-  </ul>
-</div>
-<div align="center">
-  <!-- Wrap the images inside the anchor tags -->
-  <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block; margin-right: 10px;" />
-  </a>
-  <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block; margin-right: 10px;" />
-  </a>
-  <a href="https://holopin.io/@nileshfatfatwale">
-    <img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="65" style="display: inline-block;" />
-  </a>
-</div>
-
-
 
 
 <!-- Connect with me -->

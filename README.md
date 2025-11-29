@@ -1,13 +1,13 @@
 ## 💫About Me:
 
 
-- 💻 Self-Taught Full Stack Developer & Web3 Enthusiast
-- 📚 Education: Bachelor's in Computer Science from DBATU University
-- 📝 Passion: Enthusiastic about Data Structures & Algorithms, Full Stack Web Development, Blockchain/Web3, and contributing to Open Source projects
-- 🌟 Primary Language: JavaScript — "the soul of my development journey"
-- 🚩 Interests: Full Stack Web Development, React Native Application Development, Blockchain Integration and Solving Rubik Cube 
+- 💻 Certified DevOps Engineer & Cloud / Kubernetes Enthusiast
+- 📚 Education: Bachelor’s in Computer Science from DBATU University (2024)​
+- 🛠️ Passion: Enthusiastic about Cloud Infrastructure, CI/CD pipelines, Containerization (Docker), Kubernetes/EKS, Terraform (IaC), and GitOps with Argo CD & Helm.
+- 🌩️ Stack & Tools: AWS (VPC, EC2, EKS, ALB), Terraform, Jenkins, Docker, Kubernetes, Argo CD, Helm, SonarQube, Trivy, Nginx.
+- 🚩 Interests: Designing production‑grade AWS infrastructures (VPC, private/public subnets, bastion host, ALB, EKS) and building end‑to‑end CI/CD pipelines for full‑stack applications with automated testing, security scans, and GitOps deployments.
 - ⚡ Fact:"If you ask me a question and I don’t know the answer, I’m going to tell you that I don’t know. But I bet you what, I know how to find the answer, and I will find the answer."
-- 🤔 Opportunities: Seeking internships or job roles in Full Stack Development and Blockchain technology
+- 🤔 Opportunities: Actively seeking internships or entry‑level roles in DevOps / Cloud / SRE where I can design AWS infrastructure, automate deployments, and manage Kubernetes‑based applications in production‑like environments
 
 
 
@@ -15,13 +15,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies That I Know  👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux,git,kubernetes,docker,vim,ansible,bash,elasticsearch,github,githubactions,grafana,jenkins,mongodb,mysql,nginx,prometheus,terraform,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,linux,git,kubernetes,docker,vim,ansible,bash,elasticsearch,github,githubactions,grafana,jenkins,mongodb,mysql,nginx,prometheus,terraform,vscode&perline=19" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 
